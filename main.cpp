@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// <-- ADD YOUR FUNCTION PROTOTYPE HERE
+
 int main()
 {
   //DO NOT CHANGE WITHIN THIS AREA...
@@ -10,7 +12,7 @@ int main()
   //...END OF "DO NOT CHANGE" AREA
 
 
-
+  // <-- ADD YOUR FUNCTION CALL HERE
 
 
   //DO NOT CHANGE WITHIN THIS AREA...
@@ -19,3 +21,5 @@ int main()
   return 0;
   //...END OF "DO NOT CHANGE" AREA
 }
+
+// <-- ADD YOUR FUNCTION DEFINITON HERE
